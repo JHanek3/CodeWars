@@ -2,6 +2,7 @@
 // Vasya is currently working as a clerk, he wants to sell a ticket to every person in line
 // Can vasya sell a ticket to every person and given change if he initially has no money and sells the tickets in the order q (array)
 
+// I  FUDGED THIS, will come back later
 function tickets(peopleInLine){
 
   registerArray = [];
