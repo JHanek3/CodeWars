@@ -1,12 +1,12 @@
 package java;
+//import the package for IntStream
 
-public class Kata {
+
+// Task
+// return the number of positive odd numbers below n
+class calc {
 
   public static int oddCount(int n){
-
-    return 0;
+    return n / 2;
   }
-
-}class count_odd_numbers {
-  
 }
