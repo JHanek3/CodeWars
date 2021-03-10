@@ -1,4 +1,4 @@
-package java;
+
 
 // Task
 // Write a function that calculates body mass index (weight/height 2)

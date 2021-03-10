@@ -1,4 +1,4 @@
-package java;
+
 
 // Task
 // Your task is to pslit the choclate bar of a given dimension n * m into smaller squares, implement a function that will return minimum number of breaks needed

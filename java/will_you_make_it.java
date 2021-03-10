@@ -1,4 +1,4 @@
-package java;
+
 
 // Task
 /* You were camping with your friends far away from home, but when it's time to go back, you realize that your fuel is running out 
