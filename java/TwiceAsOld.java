@@ -14,7 +14,7 @@ public class TwiceAsOld {
       }
     }
   }
-  public static void main(String args[]) {
+  public static void main(String[] args) {
     System.out.println(TwiceAsOld(30, 0));
     System.out.println(TwiceAsOld(30, 7));
     System.out.println(TwiceAsOld(45, 30));
