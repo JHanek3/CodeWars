@@ -2,7 +2,7 @@
 // Calculate how many years ago the father was twice as old as is his son
 
 public class TwiceAsOld {
-  public static int TwiceAsOld(int dadYears, int sonYears){
+  public static int TwiceAs(int dadYears, int sonYears){
     if (sonYears == 0) {
       return dadYears;
     } else {
@@ -15,9 +15,9 @@ public class TwiceAsOld {
     }
   }
   public static void main(String[] args) {
-    System.out.println(TwiceAsOld(30, 0));
-    System.out.println(TwiceAsOld(30, 7));
-    System.out.println(TwiceAsOld(45, 30));
+    System.out.println(TwiceAs(30, 0));
+    System.out.println(TwiceAs(30, 7));
+    System.out.println(TwiceAs(45, 30));
   }
 }
 
