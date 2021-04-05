@@ -1,6 +1,5 @@
 // Task
 // Return the number of vowels in a given string
-import java.lang.*;
 
 public class Vowels {
 
