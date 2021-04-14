@@ -1,3 +1,6 @@
+// Task
+// Convert seconds to hours and minutes
+
 public class TimeConverter{
     public static String toTime(int seconds){
         int remainder = 0;
